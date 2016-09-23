@@ -8,7 +8,7 @@ echo -e '\xF6' > $1
 sleep 1
 
 echo Reset
-echo -e '\xF6' > $1
+echo -e '\xF9' > $1
 sleep 1
 
 echo Initiate image transfer
